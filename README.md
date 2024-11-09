@@ -1,4 +1,4 @@
-# Hangman: Hangtime Havoc
+# Hangman: Hangtime Havoc 
 
 Welcome to Hangtime Havoc, an exciting twist on the classic Hangman game! Test your word-guessing skills across various categories, but beware—the clock is ticking!  
 
