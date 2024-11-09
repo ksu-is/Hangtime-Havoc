@@ -1,0 +1,23 @@
+# Project Roadmap
+
+This is the development roadmap for **Hangtime Havoc**. Each task represents a milestone for the project.
+
+## Roadmap  
+- [x] Initial project setup  
+  - [x] Create repository  
+  - [x] Setup basic game logic  
+- [ ] Implement word categories  
+  - [] Create a mechanism to select categories  
+- [ ] Add timed functionality  
+  - [ ] Create a countdown timer  
+  - [ ] Decrease time for incorrect guesses  
+- [ ] User interface improvements  
+  - [ ] Create a main menu  
+- [ ] Testing and debugging  
+  - [ ] Write unit tests for core logic  
+  - [ ] Test edge cases (e.g., empty categories, invalid input)  
+- [ ] Deployment  
+  - [ ] Package the game for distribution  
+  - [ ] Publish to GitHub and release executable  
+
+---
