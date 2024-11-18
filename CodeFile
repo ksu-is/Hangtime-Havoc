@@ -2,8 +2,9 @@
 ## File Name: hangman.py                               ##
 ## Description: Starter for Hangman project - ICS3U    ##
 #########################################################
-# import pygame
-# import random
+*Line 6 import py gam has been ran and installed allowing for code to run.
+import pygame
+import random
 
 pygame.init()
 winHeight = 480
