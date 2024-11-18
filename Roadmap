@@ -7,12 +7,7 @@ This is the development roadmap for **Hangtime Havoc**. Each task represents a m
   - [x] Create repository  
   - [x] Setup basic game logic  
 - [ ] Implement word categories  
-  - [] Create a mechanism to select categories  
-- [ ] Add timed functionality  
-  - [ ] Create a countdown timer  
-  - [ ] Decrease time for incorrect guesses  
 - [ ] User interface improvements  
-  - [ ] Create a main menu  
 - [ ] Testing and debugging  
   - [ ] Write unit tests for core logic  
   - [ ] Test edge cases (e.g., empty categories, invalid input)  
@@ -20,4 +15,5 @@ This is the development roadmap for **Hangtime Havoc**. Each task represents a m
   - [ ] Package the game for distribution  
   - [ ] Publish to GitHub and release executable  
 
-Since last week I have changed the orginial color scheme and have added more words to achieve different categories. This week I'm working on adding a pop-up to allow for what category should be used.
+Since last week I have changed the orginial color scheme to work better with the look of my game
+I have emailed Professor Thomas to tell him I will be modifying my project
